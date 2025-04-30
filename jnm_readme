@@ -1,0 +1,4 @@
+untuk memulai restorasi dokumen ikuti langkah ini:
+1. jalankan perintah 
+python3 enhance.py binarize  ./images/ID-ANRI_K66b_005_0526.jpg ./results/ID-ANRI_K66b_005_0526_result.png
+2. hasil restorasi ada pada folder results 

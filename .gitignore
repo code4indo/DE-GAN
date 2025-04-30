@@ -136,3 +136,8 @@ cython_debug/
 
 # Model weights
 weights/
+
+
+# image file 
+images/
+results/
