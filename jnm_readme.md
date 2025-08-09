@@ -5,7 +5,7 @@
         ```bash
         python3 -m venv .venv
         ```
-    2.  Aktifkan virtual environment:
+    2.  Aktifkan virtual environment: lokasi virtual env ada di /TESIS/DE-GAN
         ```bash
         source .venv/bin/activate
         ```
@@ -19,9 +19,21 @@
 
 4.  **Siapkan Gambar Input pada Folder `images`**
 
-5.  **Jalankan Perintah**
-    ```bash
-    python3 enhance.py binarize ./images/tiga.jpg ./results/tiga.png
-    ```
+5.  **Jalankan Perintah untuk berbagai jenis kerusakan**
+
+**Binarisasi**
+```bash
+python3 enhance.py binarize ./images/tiga.jpg ./results/tiga.png
+```
+
+**Deblur**
+```bash
+python3 enhance.py deblur ./images/tiga.jpg ./results/tiga.png
+```
+
+**enhance**
+```bash
+python3 enhance.py unwatermark ./images/tiga.jpg ./results/tiga.png
+```
 
 Hasil restorasi ada pada folder `results`.

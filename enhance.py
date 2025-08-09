@@ -67,7 +67,9 @@ if task == 'binarize':
 
 save_path = sys.argv[3]
 
-plt.imsave(save_path, predicted_image,cmap='gray')
+# plt.imsave(save_path, predicted_image,cmap='gray')
+result_image = Image.fromarray((predicted_image * 255).astype(np.uint8), mode='L')
+result_image.save(save_path, quality=95)  # Kualitas tinggi
 
 
 
