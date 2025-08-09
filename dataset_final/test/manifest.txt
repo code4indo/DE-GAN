@@ -1,0 +1,490 @@
+--- Manifest dan Laporan Verifikasi untuk Set: test ---
+
+# Ringkasan
+  - Jumlah gambar: 482
+  - Jumlah baris transkripsi: 482
+  - Status: Cocok. Setiap gambar memiliki transkripsi.
+
+# Daftar File Manifest (gambar | transkripsi)
+images/000_NL-HaNA_1.04.02_8740_0147.tif_line_1679063660296_1210.jpg | verblijve in Eerbied (onderstond) E E. agtb:
+images/001_NL-HaNA_1.04.02_8740_0147.tif_line_1679063660296_1211.jpg | verblijve in Eerbied (onderstond) E E. agtb:
+images/002_NL-HaNA_1.04.02_8740_0147.tif_r1l1.jpg | Van Bengalen onder dato 28e 8:ber 1719.
+images/003_NL-HaNA_1.04.02_8740_0147.tif_r1l10.jpg | de swacke manschap waarvan nevens dik 12 . Euro,
+images/004_NL-HaNA_1.04.02_8740_0147.tif_r1l11.jpg | ,peanen heel siek perde boot nae boven gaen,
+images/005_NL-HaNA_1.04.02_8740_0147.tif_r1l12.jpg | en gisteren 3 stux naarderwaarts sijn vertroc,
+images/006_NL-HaNA_1.04.02_8740_0147.tif_r1l13.jpg | ,ken , soodat het tegenwoordig bestaat in 37.
+images/007_NL-HaNA_1.04.02_8740_0147.tif_r1l14.jpg | Europeanen, en 30 swarten, enne sijn onvoorsien
+images/008_NL-HaNA_1.04.02_8740_0147.tif_r1l15.jpg | van geweiren , als anders , sijn in geen staet
+images/009_NL-HaNA_1.04.02_8740_0147.tif_r1l16.jpg | haar in hun kwade voornemens te beletten,
+images/010_NL-HaNA_1.04.02_8740_0147.tif_r1l17.jpg | en oins selve te defenderen, aller de zijlen geweiren
+images/011_NL-HaNA_1.04.02_8740_0147.tif_r1l18.jpg | en wes meer, Jae tot gesout spek en vlees Arack
+images/012_NL-HaNA_1.04.02_8740_0147.tif_r1l19.jpg | en andere hoognodige behoeftens incluijs, hebbende
+images/013_NL-HaNA_1.04.02_8740_0147.tif_r1l2.jpg | gedagte Rammisser Rhaij gaan, om hem personelijk
+images/014_NL-HaNA_1.04.02_8740_0147.tif_r1l20.jpg | brutale ook naar land gesleept, soo dat men hier
+images/015_NL-HaNA_1.04.02_8740_0147.tif_r1l21.jpg | anders niet en siet als miserable bedroefheijd,
+images/016_NL-HaNA_1.04.02_8740_0147.tif_r1l22.jpg | ick hoop wanneer ick bij den beijden ramisser
+images/017_NL-HaNA_1.04.02_8740_0147.tif_r1l23.jpg | hiervorengemeld kom, van hem alles naarwensch
+images/018_NL-HaNA_1.04.02_8740_0147.tif_r1l24.jpg | t' obtineren, en denselven te persuaderen, ons
+images/019_NL-HaNA_1.04.02_8740_0147.tif_r1l25.jpg | toe te staan het schip ondervoorgevinge dat het
+images/020_NL-HaNA_1.04.02_8740_0147.tif_r1l26.jpg | hoognodig gerepareerd moet werden tot hingelij
+images/021_NL-HaNA_1.04.02_8740_0147.tif_r1l27.jpg | moge brengen bidde god almagtig ons voornemen
+images/022_NL-HaNA_1.04.02_8740_0147.tif_r1l28.jpg | en uEE: agtb: met sijn heijlige hemelsche Zegeningen
+images/023_NL-HaNA_1.04.02_8740_0147.tif_r1l29.jpg | en gesontheijd wil begenadigen, onderwijlen
+images/024_NL-HaNA_1.04.02_8740_0147.tif_r1l3.jpg | ten goede te brengen, want over en weer te schrijven
+images/025_NL-HaNA_1.04.02_8740_0147.tif_r1l31.jpg | heer
+images/026_NL-HaNA_1.04.02_8740_0147.tif_r1l4.jpg | helpt niet, ondertusschen salde ontlossing door den opper,
+images/027_NL-HaNA_1.04.02_8740_0147.tif_r1l5.jpg | stuurman Valerius enden loots Harmendircksz:
+images/028_NL-HaNA_1.04.02_8740_0147.tif_r1l6.jpg | voortgeset werden om aller geweldenarijen, en mishan,
+images/029_NL-HaNA_1.04.02_8740_0147.tif_r1l7.jpg | ,delingen onder't Canalje, soo veel doenelijck voor te komen
+images/030_NL-HaNA_1.04.02_8740_0147.tif_r1l8.jpg | want het schip leijd met deselve rondom inden droge
+images/031_NL-HaNA_1.04.02_8740_0147.tif_r1l9.jpg | want men droogvoets in en uijt kan komen
+images/032_NL-HaNA_1.04.02_8740_0147.tif_r2l1.jpg | 59
+images/033_NL-HaNA_1.04.02_8818_0237.tif_line_1648639480838_296.jpg | biskruijt lb 500 . â ƒ 6: C,,to . . . . . . . . ,, 150: _ : _
+images/034_NL-HaNA_1.04.02_8818_0237.tif_line_1650894756692_2015.jpg | 3.
+images/035_NL-HaNA_1.04.02_8818_0237.tif_line_1679063682010_1221.jpg | gedragende.
+images/036_NL-HaNA_1.04.02_8818_0237.tif_line_1679063682011_1222.jpg | gedragende.
+images/037_NL-HaNA_1.04.02_8818_0237.tif_line_1679063686561_1228.jpg | Wij hebben niet konnen voor bij zijn soo ten verdoen van
+images/038_NL-HaNA_1.04.02_8818_0237.tif_line_1679063686561_1229.jpg | Wij hebben niet konnen voor bij zijn soo ten verdoen van
+images/039_NL-HaNA_1.04.02_8818_0237.tif_line_1679063692055_1235.jpg | En voor welckers montant tot . . . . . ƒ1140: 16: -
+images/040_NL-HaNA_1.04.02_8818_0237.tif_line_1679063692055_1236.jpg | En voor welckers montant tot . . . . . ƒ1140: 16: -
+images/041_NL-HaNA_1.04.02_8818_0237.tif_line_1679063693714_1241.jpg | te weten uijt
+images/042_NL-HaNA_1.04.02_8818_0237.tif_line_1679063693715_1242.jpg | te weten uijt
+images/043_NL-HaNA_1.04.02_8818_0237.tif_line_1679063693715_1243.jpg | meijdregt lb 2260. hartbroot tot ƒ8: het C:to komt ƒ180: 16: _
+images/044_NL-HaNA_1.04.02_8818_0237.tif_line_1679063693716_1244.jpg | meijdregt lb 2260. hartbroot tot ƒ8: het C:to komt ƒ180: 16: _
+images/045_NL-HaNA_1.04.02_8818_0237.tif_r1l1.jpg | Van Cabo de goede Hoop den 30: aug:o 1701.
+images/046_NL-HaNA_1.04.02_8818_0237.tif_r1l10.jpg | daags te noorden hebbende voorschoten eenelijck
+images/047_NL-HaNA_1.04.02_8818_0237.tif_r1l11.jpg | op reijs drie dooden gehad, ende voorts ons hospitael
+images/048_NL-HaNA_1.04.02_8818_0237.tif_r1l12.jpg | te samen beswaert wel met 40: sieken en impotenten ,
+images/049_NL-HaNA_1.04.02_8818_0237.tif_r1l13.jpg | dan werden die vier schepen , waer onder slans wel,,
+images/050_NL-HaNA_1.04.02_8818_0237.tif_r1l15.jpg | varen , en de geelvinck werden genaemt, de welcke
+images/051_NL-HaNA_1.04.02_8818_0237.tif_r1l16.jpg | volgens ontfangen rapport vande opperhoofden der
+images/052_NL-HaNA_1.04.02_8818_0237.tif_r1l17.jpg | voorsz: drie bodems , doenmaels uijt Texel mede
+images/053_NL-HaNA_1.04.02_8818_0237.tif_r1l18.jpg | waren Zeewaert gestoken, off op haer vertreck
+images/054_NL-HaNA_1.04.02_8818_0237.tif_r1l19.jpg | laegen , op dato ten deser rheede nog niet
+images/055_NL-HaNA_1.04.02_8818_0237.tif_r1l2.jpg | desen andermale overgaende, ons nedrigst zijn
+images/056_NL-HaNA_1.04.02_8818_0237.tif_r1l20.jpg | vernomen.
+images/057_NL-HaNA_1.04.02_8818_0237.tif_r1l22.jpg | dit gouvernement als oock vande retourschepen
+images/058_NL-HaNA_1.04.02_8818_0237.tif_r1l23.jpg | die in den aen staende jaere dese residentie staen
+images/059_NL-HaNA_1.04.02_8818_0237.tif_r1l24.jpg | aen te doen het volgende aen lant te lichten
+images/060_NL-HaNA_1.04.02_8818_0237.tif_r1l30.jpg | Concordia hartbroot lb 3000: het lb als vooren . . ,, 240: - : _
+images/061_NL-HaNA_1.04.02_8818_0237.tif_r1l31.jpg | buskruijt lb 1900: het lb: utsupra . . . ,, 570: _ : _
+images/062_NL-HaNA_1.04.02_8818_0237.tif_r1l34.jpg | wij
+images/063_NL-HaNA_1.04.02_8818_0237.tif_r1l4.jpg | Zedert zoo zijn uijt het vaderlant (god loff) alhier
+images/064_NL-HaNA_1.04.02_8818_0237.tif_r1l5.jpg | weder in een gewenste Constitutie gearriveert
+images/065_NL-HaNA_1.04.02_8818_0237.tif_r1l6.jpg | te weten den 5: desen het schip mijdrecht, den 19:n
+images/066_NL-HaNA_1.04.02_8818_0237.tif_r1l7.jpg | Concordia en den 27: d:o voorschoten , zijnde de twee
+images/067_NL-HaNA_1.04.02_8818_0237.tif_r1l8.jpg | schepen uijt de maase komende , der 13: april te samen
+images/068_NL-HaNA_1.04.02_8818_0237.tif_r1l9.jpg | in comp :' onder ' t zeijl gegaen , en die van zeelant
+images/069_NL-HaNA_1.04.02_8970_1652.tif_line_1648637167387_207.jpg | 2:' d:o gebl: d:o
+images/070_NL-HaNA_1.04.02_8970_1652.tif_line_1648637191810_217.jpg | 1:' d:o gebl: d:o
+images/071_NL-HaNA_1.04.02_8970_1652.tif_line_1648637197322_222.jpg | 1:' d:o ruwe breed Caatjes
+images/072_NL-HaNA_1.04.02_8970_1652.tif_line_1648637202067_226.jpg | 1:' d:o gebl: d:o d:o no: 3340 : 448:
+images/073_NL-HaNA_1.04.02_8970_1652.tif_line_1648637206182_230.jpg | 1:' d:o d:o grove moeris
+images/074_NL-HaNA_1.04.02_8970_1652.tif_line_1649060396534_27.jpg | 12:' ,, ,, ,, ,, . . ,, alwatt
+images/075_NL-HaNA_1.04.02_8970_1652.tif_line_1649061830393_72.jpg | eerste
+images/076_NL-HaNA_1.04.02_8970_1652.tif_line_1649061830393_73.jpg | 35:' d:o ,, mannap
+images/077_NL-HaNA_1.04.02_8970_1652.tif_line_1649061939050_79.jpg | 25:' d:o ,, alwatt:
+images/078_NL-HaNA_1.04.02_8970_1652.tif_line_1649062216113_90.jpg | met de
+images/079_NL-HaNA_1.04.02_8970_1652.tif_line_1649062216113_91.jpg | 10:' ,, ,, ,, ,, ,, alwatt
+images/080_NL-HaNA_1.04.02_8970_1652.tif_line_1649062220583_96.jpg | bood
+images/081_NL-HaNA_1.04.02_8970_1652.tif_line_1649062220583_97.jpg | 14:' ,, ,, ? . . ,, mannap:
+images/082_NL-HaNA_1.04.02_8970_1652.tif_r1l1.jpg | Van Ceylon onder dato 25 Septemb:r 1736
+images/083_NL-HaNA_1.04.02_8970_1652.tif_r1l16.jpg | In stede van 1340 : 451: lb:
+images/084_NL-HaNA_1.04.02_8970_1652.tif_r1l17.jpg | 1:' d:o d:o gemeene Caatjes
+images/085_NL-HaNA_1.04.02_8970_1652.tif_r1l2.jpg | 14:' balen kleene soorte aatjes als
+images/086_NL-HaNA_1.04.02_8970_1652.tif_r1l20.jpg | 3:' d:o d:o fijne Salmpoeris
+images/087_NL-HaNA_1.04.02_8970_1652.tif_r1l21.jpg | 1:' d:o d:o d:o Periallen
+images/088_NL-HaNA_1.04.02_8970_1652.tif_r1l22.jpg | 5 balen ruwe Salmp:s 4:' van mannap:
+images/089_NL-HaNA_1.04.02_8970_1652.tif_r1l23.jpg | 1:' van tutucorijn
+images/090_NL-HaNA_1.04.02_8970_1652.tif_r1l25.jpg | 8:' 1 d:o d=o guinees 6:' van tutucorijn
+images/091_NL-HaNA_1.04.02_8970_1652.tif_r1l26.jpg | 2:' van mannapaar
+images/092_NL-HaNA_1.04.02_8970_1652.tif_r1l27.jpg | den 11:' 9ber : 150 balen gebl: guinees daar van
+images/093_NL-HaNA_1.04.02_8970_1652.tif_r1l28.jpg | 90:' balen van tutucorijn
+images/094_NL-HaNA_1.04.02_8970_1652.tif_r1l29.jpg | met de
+images/095_NL-HaNA_1.04.02_8970_1652.tif_r1l3.jpg | 2:' balen ruwe periamoenemoelam
+images/096_NL-HaNA_1.04.02_8970_1652.tif_r1l33.jpg | bood
+images/097_NL-HaNA_1.04.02_8970_1652.tif_r1l39.jpg | 58:' balen Catt: garen als
+images/098_NL-HaNA_1.04.02_8970_1652.tif_r1l40.jpg | 22:' balen van l:a a: van mannap:/
+images/099_NL-HaNA_1.04.02_8970_1652.tif_r1l42.jpg | tweede
+images/100_NL-HaNA_1.04.02_8970_1652.tif_r1l48.jpg | den
+images/101_NL-HaNA_1.04.02_8970_1652.tif_r1l6.jpg | 1:' d:o ruwe moenemoelam
+images/102_NL-HaNA_1.04.02_9034_1646.tif_line_1648627849795_166.jpg | Onse
+images/103_NL-HaNA_1.04.02_9034_1646.tif_line_1648627868090_175.jpg | hoog Edelens gelukkige regeeringe,
+images/104_NL-HaNA_1.04.02_9034_1646.tif_r1l1.jpg | Van Mallabaar den 23 Xber . 1741
+images/105_NL-HaNA_1.04.02_9034_1646.tif_r1l10.jpg | wen dienaar / was getekend/ G.,,s Hackert
+images/106_NL-HaNA_1.04.02_9034_1646.tif_r1l11.jpg | / in marg / Coilan , den 23 xber: 1741 :
+images/107_NL-HaNA_1.04.02_9034_1646.tif_r1l12.jpg | Batavia
+images/108_NL-HaNA_1.04.02_9034_1646.tif_r1l13.jpg | Aan zijn edelhied den hoog Edelen Heeren
+images/109_NL-HaNA_1.04.02_9034_1646.tif_r1l14.jpg | Johannes Tredens,
+images/110_NL-HaNA_1.04.02_9034_1646.tif_r1l15.jpg | Gouverneur Generaal en de
+images/111_NL-HaNA_1.04.02_9034_1646.tif_r1l16.jpg | Edele heeren raden van
+images/112_NL-HaNA_1.04.02_9034_1646.tif_r1l17.jpg | Nederlands India
+images/113_NL-HaNA_1.04.02_9034_1646.tif_r1l18.jpg | Hoog Edele groot agtb:
+images/114_NL-HaNA_1.04.02_9034_1646.tif_r1l19.jpg | Wijt gebiedende
+images/115_NL-HaNA_1.04.02_9034_1646.tif_r1l2.jpg | Meer , en meer , op dat onder uw
+images/116_NL-HaNA_1.04.02_9034_1646.tif_r1l20.jpg | heeren.
+images/117_NL-HaNA_1.04.02_9034_1646.tif_r1l4.jpg | Land, en kerk steets bloeijen , mogen,
+images/118_NL-HaNA_1.04.02_9034_1646.tif_r1l5.jpg | in Middens , ik mij de Eere aanmatige
+images/119_NL-HaNA_1.04.02_9034_1646.tif_r1l6.jpg | van Soo Lange ik Leeve te sullen sijn
+images/120_NL-HaNA_1.04.02_9034_1646.tif_r1l7.jpg | / onderstond / hoog Edele wijd gebiedende
+images/121_NL-HaNA_1.04.02_9034_1646.tif_r1l8.jpg | Heere, en Heeren / Lager / uw hoog
+images/122_NL-HaNA_1.04.02_9034_1646.tif_r1l9.jpg | Edelheedens , aller onderdanigste , en getrou ,
+images/123_NL-HaNA_1.04.02_9110_0200.tif_line_1648558537084_68.jpg | deese dient eenelijk even als ao passado ten
+images/124_NL-HaNA_1.04.02_9110_0200.tif_line_1679063855782_1300.jpg | Tot
+images/125_NL-HaNA_1.04.02_9110_0200.tif_line_1679063855783_1301.jpg | Tot
+images/126_NL-HaNA_1.04.02_9110_0200.tif_line_1679063869744_1321.jpg | Gamron
+images/127_NL-HaNA_1.04.02_9110_0200.tif_line_1679063869755_1322.jpg | Gamron
+images/128_NL-HaNA_1.04.02_9110_0200.tif_r1l11.jpg | Aan den E: E. agtbaren Heer
+images/129_NL-HaNA_1.04.02_9110_0200.tif_r1l12.jpg | James Hey oppercoopman
+images/130_NL-HaNA_1.04.02_9110_0200.tif_r1l13.jpg | en gesaghebber over SComp:s handel
+images/131_NL-HaNA_1.04.02_9110_0200.tif_r1l14.jpg | ten directie nevens den raad
+images/132_NL-HaNA_1.04.02_9110_0200.tif_r1l16.jpg | Persia
+images/133_NL-HaNA_1.04.02_9110_0200.tif_r1l17.jpg | E: E: Agtbare Erntfeste
+images/134_NL-HaNA_1.04.02_9110_0200.tif_r1l18.jpg | manhafte wijse versiende
+images/135_NL-HaNA_1.04.02_9110_0200.tif_r1l19.jpg | Heer en heeren
+images/136_NL-HaNA_1.04.02_9110_0200.tif_r1l2.jpg | Van Mocha onder dato 15 aug 1734
+images/137_NL-HaNA_1.04.02_9110_0200.tif_r1l21.jpg | geleyde van onser seer nedrige advijse aan haer
+images/138_NL-HaNA_1.04.02_9110_0200.tif_r1l22.jpg | hoog Edelens tot batavia gerigt waer aen wy
+images/139_NL-HaNA_1.04.02_9110_0200.tif_r1l23.jpg | ons selfs onderdaniglijk gedragen , en uedelens
+images/140_NL-HaNA_1.04.02_9110_0200.tif_r1l24.jpg | daer
+images/141_NL-HaNA_1.04.02_9110_0200.tif_r1l3.jpg | E: E Agtbare Erntfeste, manhafte wijse , ver,
+images/142_NL-HaNA_1.04.02_9110_0200.tif_r1l5.jpg | ,,resiende heer en heeren nog Lager UEd:e Agtben
+images/143_NL-HaNA_1.04.02_9110_0200.tif_r1l6.jpg | gehoorsame dienaeren ( was getekent Jan Wm
+images/144_NL-HaNA_1.04.02_9110_0200.tif_r1l7.jpg | Vanden Sturk, Wm Van den Berg Janes
+images/145_NL-HaNA_1.04.02_9110_0200.tif_r1l8.jpg | Akersloot en Rasmacquet ten zijde
+images/146_NL-HaNA_1.04.02_9110_0200.tif_r1l9.jpg | stond) Mocha den 15 augustus 1734
+images/147_NL-HaNA_1.04.02_9289_0225.tif_line_1650886952690_1055.jpg | d'h=r M.r herman klencke
+images/148_NL-HaNA_1.04.02_9289_0225.tif_line_1661841922982_81.jpg | Den Raadt Fiat,
+images/149_NL-HaNA_1.04.02_9289_0225.tif_r1l1.jpg | 57
+images/150_NL-HaNA_1.04.02_9289_0225.tif_r1l10.jpg | geswore clerck.
+images/151_NL-HaNA_1.04.02_9289_0225.tif_r1l12.jpg | Saterdach den xxij=en martij a:o 1659 .
+images/152_NL-HaNA_1.04.02_9289_0225.tif_r1l13.jpg | presentibus omnibus dempto d'heer
+images/153_NL-HaNA_1.04.02_9289_0225.tif_r1l14.jpg | Burgers_
+images/154_NL-HaNA_1.04.02_9289_0225.tif_r1l16.jpg | den gedaechde exhibeert
+images/155_NL-HaNA_1.04.02_9289_0225.tif_r1l17.jpg | van odessen advocaet fiscael van
+images/156_NL-HaNA_1.04.02_9289_0225.tif_r1l18.jpg | een attestatie.
+images/157_NL-HaNA_1.04.02_9289_0225.tif_r1l19.jpg | India noc. off. eijss=r
+images/158_NL-HaNA_1.04.02_9289_0225.tif_r1l2.jpg | Eijss:r ter andere zijde alsmede noch een antwoort
+images/159_NL-HaNA_1.04.02_9289_0225.tif_r1l20.jpg | Contra.
+images/160_NL-HaNA_1.04.02_9289_0225.tif_r1l21.jpg | d'h.r Eijss.k versouckt
+images/161_NL-HaNA_1.04.02_9289_0225.tif_r1l22.jpg | Jacob van doorn gedaechde
+images/162_NL-HaNA_1.04.02_9289_0225.tif_r1l23.jpg | copie,
+images/163_NL-HaNA_1.04.02_9289_0225.tif_r1l24.jpg | om als noch volgens versouck
+images/164_NL-HaNA_1.04.02_9289_0225.tif_r1l25.jpg | bewijs over te leggen,
+images/165_NL-HaNA_1.04.02_9289_0225.tif_r1l28.jpg | d'h.r
+images/166_NL-HaNA_1.04.02_9289_0225.tif_r1l3.jpg | van Waijock ende Gooijcko in cas van oppositie
+images/167_NL-HaNA_1.04.02_9289_0225.tif_r1l4.jpg | Contra den Eijsch vanden selven h.r Eijss=r jegens
+images/168_NL-HaNA_1.04.02_9289_0225.tif_r1l5.jpg | de twee voornoemde gedaechdens namentlijch
+images/169_NL-HaNA_1.04.02_9289_0225.tif_r1l6.jpg | kietko ende bentingh gedaen ende wert door de voors .
+images/170_NL-HaNA_1.04.02_9289_0225.tif_r1l7.jpg | gedaechdens visie ende lecture vande selve aende
+images/171_NL-HaNA_1.04.02_9289_0225.tif_r1l8.jpg | heer Eijss=r vergunt ende gegeven , onderstont wij
+images/172_NL-HaNA_1.04.02_9289_0225.tif_r1l9.jpg | present ende was geteeckent Cornelis Snouck
+images/173_NL-HaNA_1.04.02_9582_0425.tif_line_1648478849338_360.jpg | 355
+images/174_NL-HaNA_1.04.02_9582_0425.tif_line_1648478865469_367.jpg | 570: P,,s Lachorijs in 5 Packen, zegge vijff Hondert en seven
+images/175_NL-HaNA_1.04.02_9582_0425.tif_line_1648478875362_372.jpg | 200: ,, ditto ,, ditto 2 ditto ,, 2 ditto
+images/176_NL-HaNA_1.04.02_9582_0425.tif_line_1648478882514_376.jpg | 274 ,, ditto ,, ditto 2 ditto ,, 3 ditto
+images/177_NL-HaNA_1.04.02_9582_0425.tif_line_1648478889309_380.jpg | 680 ,, ditto 1 3/4 ditto ,, 7: ditto
+images/178_NL-HaNA_1.04.02_9582_0425.tif_line_1648478892162_384.jpg | 875 ,, ditto 1 5/8 ditto ,, 9 ditto
+images/179_NL-HaNA_1.04.02_9582_0425.tif_line_1648478894603_388.jpg | 767 ,, ditto 1½ ditto ,, 8 ditto
+images/180_NL-HaNA_1.04.02_9582_0425.tif_line_1648478898258_392.jpg | 202 ,, ditto 1½ ditto ,, 2 ditto fijne de Hilsa
+images/181_NL-HaNA_1.04.02_9582_0425.tif_r2l10.jpg | 60: ,, ditto ,, ditto 1 5/8 ditto ,, _ ½ ditto
+images/182_NL-HaNA_1.04.02_9582_0425.tif_r2l13.jpg | ,,tig stukken voor Middelburg, Waar van
+images/183_NL-HaNA_1.04.02_9582_0425.tif_r2l14.jpg | 116 P,,s Lang 32 Breed 2¼ Cob,,o in 1 Pak
+images/184_NL-HaNA_1.04.02_9582_0425.tif_r2l17.jpg | 135: ,, ditto 22 ditto 1 3/4 ditto ,, _ 3/4 ditto
+images/185_NL-HaNA_1.04.02_9582_0425.tif_r2l18.jpg | 45 ,, ditto ,, ditto 1 5/8 ditto ,, _ ¼ ditto
+images/186_NL-HaNA_1.04.02_9582_0425.tif_r2l19.jpg | 3055 P,,s Bastassen van Patna Lang 36 Cobido in 31 packen
+images/187_NL-HaNA_1.04.02_9582_0425.tif_r2l2.jpg | 1411 P,,s Amirtjes in 13 Packen Zeggen Een Duijsend Vier
+images/188_NL-HaNA_1.04.02_9582_0425.tif_r2l20.jpg | zegge Drie Duijsend en Vijff en Vijftig stukken, voor
+images/189_NL-HaNA_1.04.02_9582_0425.tif_r2l21.jpg | Middelburg Namentlijk
+images/190_NL-HaNA_1.04.02_9582_0425.tif_r2l22.jpg | 533 P,,s Breed '2 Cobido in 5 Packen
+images/191_NL-HaNA_1.04.02_9582_0425.tif_r2l3.jpg | Hondert en Elf stukken voor Middelburg te Weeten
+images/192_NL-HaNA_1.04.02_9582_0425.tif_r2l4.jpg | 43 P,,s Lang 38 Breed 2 ¼ Cob,,o in ½ pak
+images/193_NL-HaNA_1.04.02_9582_0425.tif_r2l7.jpg | 543: ,, ditto ,, ditto 1 3/4 ditto ,, 5½ ditto
+images/194_NL-HaNA_1.04.02_9582_0425.tif_r2l8.jpg | 280: ,, ditto ,, ditto 1 5/8 ditto ,, 3 ditto
+images/195_NL-HaNA_1.04.02_9582_0425.tif_r2l9.jpg | 285: ,, ditto 28,, ditto 1 3/4 ditto ,, 1½ ditto
+images/196_NL-HaNA_1.04.02_1501_0060-groot_line_1679067216337_2024.jpg | Den selven Ingenieur heeft dan sijn berigt ende calculatie
+images/197_NL-HaNA_1.04.02_1501_0060-groot_line_1679067216337_2025.jpg | Den selven Ingenieur heeft dan sijn berigt ende calculatie
+images/198_NL-HaNA_1.04.02_1501_0060-groot_r1l1.jpg | cort begrijp vande reek:e derhalve
+images/199_NL-HaNA_1.04.02_1501_0060-groot_r1l2.jpg | seshoek na 't vaderlandse project-
+images/200_NL-HaNA_1.04.02_1501_0060-groot_r2l1.jpg | uijt het vaderlant gekomen Ingenieur geappliceert houde
+images/201_NL-HaNA_1.04.02_1501_0060-groot_r2l10.jpg | sijn omtrek zijnde, wanneer debuijten muur inden aanleg
+images/202_NL-HaNA_1.04.02_1501_0060-groot_r2l11.jpg | der fundamenten 10 stenen of 8⅓ voeten, ende boven aan
+images/203_NL-HaNA_1.04.02_1501_0060-groot_r2l12.jpg | ses steenen of vijf voeten dik, ende 20·voeten hoog, mitsgrs
+images/204_NL-HaNA_1.04.02_1501_0060-groot_r2l13.jpg | het binnen-muurtje lang 160·roeden, 2½ steenen onder,
+images/205_NL-HaNA_1.04.02_1501_0060-groot_r2l14.jpg | en 1½· d=os boven dik, ende 10·voeten hoog genomen, wijders
+images/206_NL-HaNA_1.04.02_1501_0060-groot_r2l15.jpg | de gragt 2640 · voeten lang, 10·roeden voorde gordijnen, ende
+images/207_NL-HaNA_1.04.02_1501_0060-groot_r2l16.jpg | 5· d=os voor defacen wijd gegraven , ende met moppen den
+images/208_NL-HaNA_1.04.02_1501_0060-groot_r2l17.jpg | wederzijden onder 3 ende boven 2 steenen dik, ende 10·voeten
+images/209_NL-HaNA_1.04.02_1501_0060-groot_r2l18.jpg | hoog beschoeijt wierde, als dan de mopsteenen en 'tmetsel,,
+images/210_NL-HaNA_1.04.02_1501_0060-groot_r2l19.jpg | loon mitsgaders het graven der graft , Item de planken ende
+images/211_NL-HaNA_1.04.02_1501_0060-groot_r2l2.jpg | werden) van het arbeijtsloon ende materialen tusschen am,,
+images/212_NL-HaNA_1.04.02_1501_0060-groot_r2l20.jpg | balken tot het fondement , nevens de afte kopene
+images/213_NL-HaNA_1.04.02_1501_0060-groot_r2l21.jpg | huijsen ende erven (wel te verstaan gelijk bij die brief van
+images/214_NL-HaNA_1.04.02_1501_0060-groot_r2l22.jpg | 21=e september gesegt werd, alleen soo verre de buijten
+images/215_NL-HaNA_1.04.02_1501_0060-groot_r2l23.jpg | barm
+images/216_NL-HaNA_1.04.02_1501_0060-groot_r2l3.jpg | bon ende 'tvaderlant ; soo dat men dan den Ingenieur gelast
+images/217_NL-HaNA_1.04.02_1501_0060-groot_r2l4.jpg | heeft sulx na de vaderlandse wijse, ende na de stoffe waar
+images/218_NL-HaNA_1.04.02_1501_0060-groot_r2l5.jpg | mede men aldaar gewoon is te werken, te taxeren ende te
+images/219_NL-HaNA_1.04.02_1501_0060-groot_r2l6.jpg | calculeren.
+images/220_NL-HaNA_1.04.02_1501_0060-groot_r2l8.jpg | diervoegens opden 5=e augusti 1692·overgelevert, behel,,
+images/221_NL-HaNA_1.04.02_1501_0060-groot_r2l9.jpg | sende dat de vaderlandse halve seshoek, 292½· roeden in
+images/222_NL-HaNA_1.04.02_1681_0069-groot_r1l1.jpg | aan radja bouys goede intentie
+images/223_NL-HaNA_1.04.02_1681_0069-groot_r1l2.jpg | omtrent d E Comp:e Werd niet
+images/224_NL-HaNA_1.04.02_1681_0069-groot_r1l3.jpg | getwyffelt
+images/225_NL-HaNA_1.04.02_1681_0069-groot_r2l1.jpg | betragt, sonder dat wy voor alsnog konnen
+images/226_NL-HaNA_1.04.02_1681_0069-groot_r2l10.jpg | soo konnen wy ook niet twyffelen of syn
+images/227_NL-HaNA_1.04.02_1681_0069-groot_r2l11.jpg | hoogh:ts iterative betuygingen van genegenth..t,
+images/228_NL-HaNA_1.04.02_1681_0069-groot_r2l12.jpg | getrouwh:t, en agtinge tot de: Comp:e zyn
+images/229_NL-HaNA_1.04.02_1681_0069-groot_r2l13.jpg | opregt ,en ongeveynst , voor al konnen wy ons ook
+images/230_NL-HaNA_1.04.02_1681_0069-groot_r2l14.jpg | geheel niet imagineeren, dat zyn hoogh:t hem
+images/231_NL-HaNA_1.04.02_1681_0069-groot_r2l15.jpg | oyt met demacassaren sal inwickelen
+images/232_NL-HaNA_1.04.02_1681_0069-groot_r2l16.jpg | om
+images/233_NL-HaNA_1.04.02_1681_0069-groot_r2l2.jpg | vaststellen, of syn hoogh:t door thof van goa , dan
+images/234_NL-HaNA_1.04.02_1681_0069-groot_r2l3.jpg | wel door het misnoegen , ten tyde vande voorige gouvern:r
+images/235_NL-HaNA_1.04.02_1681_0069-groot_r2l4.jpg | beernink opgevat , of eenige andere redenen daar
+images/236_NL-HaNA_1.04.02_1681_0069-groot_r2l5.jpg | toe is aangeset , dog dewyle syn hoogh:t door de geoeffende
+images/237_NL-HaNA_1.04.02_1681_0069-groot_r2l6.jpg | straffe aanden gewesen boeckhouder marcus
+images/238_NL-HaNA_1.04.02_1681_0069-groot_r2l7.jpg | zandbeek , en den moor oumar aly , reets heest bespeurt
+images/239_NL-HaNA_1.04.02_1681_0069-groot_r2l8.jpg | onsen ernst , om hem op syne Clagten in alle
+images/240_NL-HaNA_1.04.02_1681_0069-groot_r2l9.jpg | billickh:t te maintineeren, en syne agtinge te conserveere
+images/241_NL-HaNA_1.04.02_1681_0069-groot_r3l1.jpg | 57
+images/242_NL-HaNA_1.04.02_1681_0069-groot_r3l10.jpg | en het aantoonen van syn ware belang inder tijd
+images/243_NL-HaNA_1.04.02_1681_0069-groot_r3l11.jpg | wel slijten ,gelyk in voertijden meer ervaren is
+images/244_NL-HaNA_1.04.02_1681_0069-groot_r3l12.jpg | en omdat de bougys en macassaren in hun
+images/245_NL-HaNA_1.04.02_1681_0069-groot_r3l13.jpg | selven vansoo verschillende natuur zyn, en altyd
+images/246_NL-HaNA_1.04.02_1681_0069-groot_r3l14.jpg | t' kisje met goudwerk van
+images/247_NL-HaNA_1.04.02_1681_0069-groot_r3l15.jpg | zullen blijven . sullende de briev van 11:e 7ber: ook
+images/248_NL-HaNA_1.04.02_1681_0069-groot_r3l16.jpg | aroe teko heeft zijn hoogh:t
+images/249_NL-HaNA_1.04.02_1681_0069-groot_r3l17.jpg | aangenomen
+images/250_NL-HaNA_1.04.02_1681_0069-groot_r3l18.jpg | konnen uytwysen , dat het kisje met goudwerck
+images/251_NL-HaNA_1.04.02_1681_0069-groot_r3l19.jpg | door aroe teko voormaals uijt debuijt van tambora
+images/252_NL-HaNA_1.04.02_1681_0069-groot_r3l2.jpg | om tegens 's Comp:s slaat aldaar iets te
+images/253_NL-HaNA_1.04.02_1681_0069-groot_r3l20.jpg | agtergehouden, doorsyn hoogh:t op de eerste aanbiedinge
+images/254_NL-HaNA_1.04.02_1681_0069-groot_r3l21.jpg | onder betuyginge vansyn dankbaarh:t aangenomen is.
+images/255_NL-HaNA_1.04.02_1681_0069-groot_r3l23.jpg | Hoedanige sententien aldaar gevallen enden 7:e augustus
+images/256_NL-HaNA_1.04.02_1681_0069-groot_r3l24.jpg | verleeden g'executeert syn op deCrimineele processen
+images/257_NL-HaNA_1.04.02_1681_0069-groot_r3l25.jpg | tegens
+images/258_NL-HaNA_1.04.02_1681_0069-groot_r3l3.jpg | Macassar
+images/259_NL-HaNA_1.04.02_1681_0069-groot_r3l4.jpg | sijn hoogh:ts groote Conversatie
+images/260_NL-HaNA_1.04.02_1681_0069-groot_r3l5.jpg | met t' maccasaarse hof sal
+images/261_NL-HaNA_1.04.02_1681_0069-groot_r3l6.jpg | apparent wel slijten
+images/262_NL-HaNA_1.04.02_1681_0069-groot_r3l7.jpg | ondernemen , hoewel de groote Conversatie met
+images/263_NL-HaNA_1.04.02_1681_0069-groot_r3l8.jpg | deselve altijd sorgelyk is ,dog die sal mogelyck door
+images/264_NL-HaNA_1.04.02_1681_0069-groot_r3l9.jpg | een voorsigtige directie van s Comp:s ministers,
+images/265_NL-HaNA_1.04.02_2173_0390-groot_line_1642509343658_231.jpg | en vertraging van der selver
+images/266_NL-HaNA_1.04.02_2173_0390-groot_line_1642511933693_385.jpg | Ceijlon
+images/267_NL-HaNA_1.04.02_2173_0390-groot_line_1642512074937_411.jpg | verstaan na ceijlon vrage
+images/268_NL-HaNA_1.04.02_2173_0390-groot_line_1642603645823_275.jpg | te doen, of 'er op gale ,danwel
+images/269_NL-HaNA_1.04.02_2173_0390-groot_line_1642603667382_286.jpg | en na Ceijlon vrage
+images/270_NL-HaNA_1.04.02_2173_0390-groot_line_1642603677677_291.jpg | te doen of deselve op
+images/271_NL-HaNA_1.04.02_2173_0390-groot_line_1642603685904_296.jpg | gale ,dan wel Jaffa,,
+images/272_NL-HaNA_1.04.02_2173_0390-groot_line_1642603693689_301.jpg | napatnam niet te
+images/273_NL-HaNA_1.04.02_2173_0390-groot_line_1642603711359_306.jpg | demanueren zouden zijn.
+images/274_NL-HaNA_1.04.02_2173_0390-groot_line_1643032213906_20.jpg | 1667
+images/275_NL-HaNA_1.04.02_2173_0390-groot_line_1679067370621_2041.jpg | ,,liedens graagte indien handel
+images/276_NL-HaNA_1.04.02_2173_0390-groot_line_1679067370621_2042.jpg | ,,liedens graagte indien handel
+images/277_NL-HaNA_1.04.02_2173_0390-groot_line_1679067388008_2049.jpg | cas van nood .
+images/278_NL-HaNA_1.04.02_2173_0390-groot_line_1679067388008_2050.jpg | cas van nood .
+images/279_NL-HaNA_1.04.02_2173_0390-groot_r2l1.jpg | hand te hebben ,tot vergrotin
+images/280_NL-HaNA_1.04.02_2173_0390-groot_r2l10.jpg | van de Comp,e die al Egter
+images/281_NL-HaNA_1.04.02_2173_0390-groot_r2l11.jpg | het geluk heeft gehad , voor
+images/282_NL-HaNA_1.04.02_2173_0390-groot_r2l12.jpg | derselver ontfangst in voormde
+images/283_NL-HaNA_1.04.02_2173_0390-groot_r2l13.jpg | directie , bij verkoop van qua
+images/284_NL-HaNA_1.04.02_2173_0390-groot_r2l14.jpg | ,,titeijt van 440915. stux van
+images/285_NL-HaNA_1.04.02_2173_0390-groot_r2l15.jpg | gem,e zeehorens te demanueeren
+images/286_NL-HaNA_1.04.02_2173_0390-groot_r2l16.jpg | Edog om bij tegenval den koop,,
+images/287_NL-HaNA_1.04.02_2173_0390-groot_r2l18.jpg | en
+images/288_NL-HaNA_1.04.02_2173_0390-groot_r2l2.jpg | der winsten , gerief der Inland
+images/289_NL-HaNA_1.04.02_2173_0390-groot_r2l3.jpg | ,,se koopluijden, ook om d
+images/290_NL-HaNA_1.04.02_2173_0390-groot_r2l4.jpg | parrowas daar van niet te
+images/291_NL-HaNA_1.04.02_2173_0390-groot_r2l5.jpg | ontwennen, en Eijndelijk
+images/292_NL-HaNA_1.04.02_2173_0390-groot_r2l6.jpg | des mogelijk alle occasien
+images/293_NL-HaNA_1.04.02_2173_0390-groot_r2l8.jpg | te benemen tot morsserijen
+images/294_NL-HaNA_1.04.02_2173_0390-groot_r2l9.jpg | niet anderen tot groot nadeel
+images/295_NL-HaNA_1.04.02_2173_0390-groot_r3l11.jpg | Jaffanapatnam , geen occasie
+images/296_NL-HaNA_1.04.02_2173_0390-groot_r3l12.jpg | zoude te vinden zijn, tot ver,,
+images/297_NL-HaNA_1.04.02_2173_0390-groot_r3l13.jpg | ,,koop van voorm,e kinkhorens
+images/298_NL-HaNA_1.04.02_2173_0390-groot_r3l14.jpg | aan de bengaalse mooren
+images/299_NL-HaNA_1.04.02_2173_0390-groot_r3l15.jpg | die Jaarlijx met granen en
+images/300_NL-HaNA_1.04.02_2173_0390-groot_r3l16.jpg | andere Levensbehoeftens, al,,
+images/301_NL-HaNA_1.04.02_2173_0390-groot_r3l17.jpg | daer gewoon zijn te verschij,,
+images/302_NL-HaNA_1.04.02_2173_0390-groot_r3l18.jpg | ,,nen , om daer na onse me,,
+images/303_NL-HaNA_1.04.02_2173_0390-groot_r3l19.jpg | ,,sures te konnen nemen in
+images/304_NL-HaNA_1.04.02_2173_0390-groot_r3l21.jpg | Kapens
+images/305_NL-HaNA_1.04.02_2173_0390-groot_r3l3.jpg | Vleet, daer mede eenen anderen
+images/306_NL-HaNA_1.04.02_2173_0390-groot_r3l4.jpg | uijtweg te zoeken ten besten
+images/307_NL-HaNA_1.04.02_2173_0390-groot_r3l5.jpg | van de comp,e  zoo is ook
+images/308_NL-HaNA_1.04.02_2285_0605-groot_line_1643032287324_48.jpg | 585
+images/309_NL-HaNA_1.04.02_2285_0605-groot_r2l10.jpg | dat d'andere regenten aangesteld hebben gent:
+images/310_NL-HaNA_1.04.02_2285_0605-groot_r2l11.jpg | Dain Manangera een Camanakang van 't
+images/311_NL-HaNA_1.04.02_2285_0605-groot_r2l12.jpg | afgesette hoofd Dain Manangbon deselve
+images/312_NL-HaNA_1.04.02_2285_0605-groot_r2l13.jpg | aanhoudt, daarbij voegende hij deselfde voet,,
+images/313_NL-HaNA_1.04.02_2285_0605-groot_r2l14.jpg | stappen gaat van het afgesette hooft, dierhalven
+images/314_NL-HaNA_1.04.02_2285_0605-groot_r2l15.jpg | gen: Crain Malawa nevens de meerm,,
+images/315_NL-HaNA_1.04.02_2285_0605-groot_r2l16.jpg | aroes op heden opsendt met de 6. p=s slaven
+images/316_NL-HaNA_1.04.02_2285_0605-groot_r2l17.jpg | die ik hier heb aangehouden , en naar dat ik
+images/317_NL-HaNA_1.04.02_2285_0605-groot_r2l18.jpg | kan bemercken , soo is den nieuwen nog Erger
+images/318_NL-HaNA_1.04.02_2285_0605-groot_r2l19.jpg | als den ouden, alsoo ik verstaan heb, hij dain
+images/319_NL-HaNA_1.04.02_2285_0605-groot_r2l2.jpg | Van Maccassar onder dato 21⁓ meij 1733.
+images/320_NL-HaNA_1.04.02_2285_0605-groot_r2l20.jpg | Managera al doende geweest is , met eenig
+images/321_NL-HaNA_1.04.02_2285_0605-groot_r2l21.jpg | volk te rampassen op de Treg=ij Bila .
+images/322_NL-HaNA_1.04.02_2285_0605-groot_r2l22.jpg | Waarmede dese bekorte met diep respect
+images/323_NL-HaNA_1.04.02_2285_0605-groot_r2l23.jpg | /onderstond/ Edelen agtb=e manhaften, wijsen
+images/324_NL-HaNA_1.04.02_2285_0605-groot_r2l24.jpg | voorsienige en seer genereusen heer /Lager/
+images/325_NL-HaNA_1.04.02_2285_0605-groot_r2l25.jpg | uwel Ed: agtb=e seer gehoorsame en getrouwen
+images/326_NL-HaNA_1.04.02_2285_0605-groot_r2l26.jpg | dienaar/was geteekent/ A:V:Schaik /in margine/
+images/327_NL-HaNA_1.04.02_2285_0605-groot_r2l27.jpg | Maros in d':E: Comp. Pagger den 24⁓. 8ber: 1732.
+images/328_NL-HaNA_1.04.02_2285_0605-groot_r2l28.jpg | Aan als
+images/329_NL-HaNA_1.04.02_2285_0605-groot_r2l3.jpg | komen , die hem lieten antwoorden het selfde soud
+images/330_NL-HaNA_1.04.02_2285_0605-groot_r2l4.jpg | doen , dog alsoo een soeroa van mij voor de
+images/331_NL-HaNA_1.04.02_2285_0605-groot_r2l5.jpg | derde maal hem quam op roepen, heeft hij niet
+images/332_NL-HaNA_1.04.02_2285_0605-groot_r2l6.jpg | langer derven Tardeeren , en is Eenelijk met de
+images/333_NL-HaNA_1.04.02_2285_0605-groot_r2l7.jpg | gem. aroes buijten gekomen, dog van de slaven
+images/334_NL-HaNA_1.04.02_2285_0605-groot_r2l8.jpg | die ik hem g'ordonneert had mede te brengen
+images/335_NL-HaNA_1.04.02_2285_0605-groot_r2l9.jpg | heeft et geen mede gebragt, alsoo 't hooft
+images/336_NL-HaNA_1.04.02_3029_0252-groot_line_1642516013321_570.jpg | aandeel van Specerijen voor de kamer Hoorn
+images/337_NL-HaNA_1.04.02_3029_0252-groot_line_1642602796497_175.jpg | Specerijen voor Hoorn
+images/338_NL-HaNA_1.04.02_3029_0252-groot_line_1642602812088_180.jpg | afgeladen in de Immagonda.
+images/339_NL-HaNA_1.04.02_3029_0252-groot_r1l1.jpg | besluijt te veranderen , en de retourbodems in
+images/340_NL-HaNA_1.04.02_3029_0252-groot_r1l14.jpg | afgeladen is in de Immagonda. Bij na
+images/341_NL-HaNA_1.04.02_3029_0252-groot_r1l15.jpg | ,,lezing van ons besluijt zullen Uw wel Edele H
+images/342_NL-HaNA_1.04.02_3029_0252-groot_r1l16.jpg | Achtb: gelijk wij vertrouwen, de reedenen, die'er o
+images/343_NL-HaNA_1.04.02_3029_0252-groot_r1l17.jpg | toe bewogen hebben, aggreëeren; want nu houd me
+images/344_NL-HaNA_1.04.02_3029_0252-groot_r1l18.jpg | nog eene tamelijke quantiteijt peper over voor
+images/345_NL-HaNA_1.04.02_3029_0252-groot_r1l19.jpg | twee scheepen, die wij in Januarij voor de kamer
+images/346_NL-HaNA_1.04.02_3029_0252-groot_r1l2.jpg | ,,kervoege, als het bij resolutie geinsereert ber
+images/347_NL-HaNA_1.04.02_3029_0252-groot_r1l20.jpg | Amsterdam
+images/348_NL-HaNA_1.04.02_3029_0252-groot_r1l3.jpg | van den opper-Equipagiemeester voorsteld, te be
+images/349_NL-HaNA_1.04.02_3029_0252-groot_r1l4.jpg | ,,den . Dien Conform dient het schip Vosmaa
+images/350_NL-HaNA_1.04.02_3029_0252-groot_r1l5.jpg | buijten de onderlaag, tot transport van de Vrag
+images/351_NL-HaNA_1.04.02_3029_0252-groot_r1l6.jpg | thee, en 't geene die bodem aan thee niet wegsleep
+images/352_NL-HaNA_1.04.02_3029_0252-groot_r1l7.jpg | konde, is afgestreept in de Sijcochton , wiens
+images/353_NL-HaNA_1.04.02_3029_0252-groot_r1l8.jpg | ruijm men verder vol gemaakt heeft met
+images/354_NL-HaNA_1.04.02_3029_0252-groot_r1l9.jpg | 200'000. ℔. Coffij en 80'000. ℔. Suijker, terwijl
+images/355_NL-HaNA_1.04.02_3278_0148-groot_r1l1.jpg | bengale
+images/356_NL-HaNA_1.04.02_3278_0148-groot_r2l1.jpg | voor 1768, 1769, 1770 en 1771. maar 137, 12679,
+images/357_NL-HaNA_1.04.02_3278_0148-groot_r2l10.jpg | qualificatie, die in gevolge onze
+images/358_NL-HaNA_1.04.02_3278_0148-groot_r2l11.jpg | resolutoïre Besogne van den 29.
+images/359_NL-HaNA_1.04.02_3278_0148-groot_r2l12.jpg | ,, Secrete
+images/360_NL-HaNA_1.04.02_3278_0148-groot_r2l13.jpg | Juni pass=o aan hem onlangs bij ,,
+images/361_NL-HaNA_1.04.02_3278_0148-groot_r2l14.jpg | brieven van den 14 julij daar aan gegeven
+images/362_NL-HaNA_1.04.02_3278_0148-groot_r2l15.jpg | is, om de Europische militairen,
+images/363_NL-HaNA_1.04.02_3278_0148-groot_r2l16.jpg | welke daar niet nodig zijn, dadelijk
+images/364_NL-HaNA_1.04.02_3278_0148-groot_r2l17.jpg | herwaars te zenden, zonder daar
+images/365_NL-HaNA_1.04.02_3278_0148-groot_r2l18.jpg | mede
+images/366_NL-HaNA_1.04.02_3278_0148-groot_r2l2.jpg | en 36: kisten en pakken groot geweest
+images/367_NL-HaNA_1.04.02_3278_0148-groot_r2l3.jpg | zynde, zoo wel als de afdanking
+images/368_NL-HaNA_1.04.02_3278_0148-groot_r2l4.jpg | in het voorleden Jaar van eenige
+images/369_NL-HaNA_1.04.02_3278_0148-groot_r2l5.jpg | overtollige Inlandsche Bedienden
+images/370_NL-HaNA_1.04.02_3278_0148-groot_r2l6.jpg | te Patna, en de nadrukkelijke
+images/371_NL-HaNA_1.04.02_3278_0148-groot_r2l7.jpg | ordre aan den Directeur Fauré,
+images/372_NL-HaNA_1.04.02_3278_0148-groot_r2l8.jpg | bij aparte brief van den 11 augs 1769.
+images/373_NL-HaNA_1.04.02_3278_0148-groot_r2l9.jpg | tot vernieuwing denzelve, en de
+images/374_NL-HaNA_1.04.02_3393_0218-groot_line_1642501332387_96.jpg | egter het daarop gevolgd voorstel, om seven
+images/375_NL-HaNA_1.04.02_3393_0218-groot_line_1642501332388_97.jpg | Comp:s aandeel is niet
+images/376_NL-HaNA_1.04.02_3393_0218-groot_line_1642502917370_129.jpg | onse verwagting, dat sij zig deese aan,,
+images/377_NL-HaNA_1.04.02_3393_0218-groot_line_1642502917370_130.jpg | recommandatie tegen
+images/378_NL-HaNA_1.04.02_3393_0218-groot_line_1642504279134_189.jpg | aanmaking, van nog twee nieuwe tonne
+images/379_NL-HaNA_1.04.02_3393_0218-groot_line_1642504279134_190.jpg | making van twee nieuwe
+images/380_NL-HaNA_1.04.02_3393_0218-groot_r2l10.jpg | gedane saak hebben moeten berusten,
+images/381_NL-HaNA_1.04.02_3393_0218-groot_r2l11.jpg | so hebben wij egter de Ministers voorgehouden
+images/382_NL-HaNA_1.04.02_3393_0218-groot_r2l13.jpg | het beswaar deser ongelden.
+images/383_NL-HaNA_1.04.02_3393_0218-groot_r2l14.jpg | ,,merkingen voorhet vervolg tot narigt
+images/384_NL-HaNA_1.04.02_3393_0218-groot_r2l15.jpg | souden laten strekken, en derhalven
+images/385_NL-HaNA_1.04.02_3393_0218-groot_r2l16.jpg | so veel mogelijk sorgen, dat de Comp:
+images/386_NL-HaNA_1.04.02_3393_0218-groot_r2l17.jpg | door deese ongelden niet boven mate
+images/387_NL-HaNA_1.04.02_3393_0218-groot_r2l18.jpg | beswaard werde .
+images/388_NL-HaNA_1.04.02_3393_0218-groot_r2l19.jpg | Omtrent
+images/389_NL-HaNA_1.04.02_3393_0218-groot_r2l2.jpg | evenredig met dat der
+images/390_NL-HaNA_1.04.02_3393_0218-groot_r2l3.jpg | Engelschen.
+images/391_NL-HaNA_1.04.02_3393_0218-groot_r2l4.jpg | door de Engelschen, en vijf door ons in't vaar,
+images/392_NL-HaNA_1.04.02_3393_0218-groot_r2l5.jpg | ,,water teleggen, als regulmatig hebben
+images/393_NL-HaNA_1.04.02_3393_0218-groot_r2l6.jpg | konnen amplecteren, wijl sulks meer
+images/394_NL-HaNA_1.04.02_3393_0218-groot_r2l7.jpg | als twee derde van hun getal, en dus om
+images/395_NL-HaNA_1.04.02_3393_0218-groot_r2l8.jpg | voorm: reden geensints geproportioneert is,
+images/396_NL-HaNA_1.04.02_3393_0218-groot_r2l9.jpg | dan hoe seer wij daar in alweder als een
+images/397_NL-HaNA_1.04.02_3393_0218-groot_r3l1.jpg | 1133
+images/398_NL-HaNA_1.04.02_3393_0218-groot_r3l10.jpg | zijnde, als doen nog in Negen stuks be,
+images/399_NL-HaNA_1.04.02_3393_0218-groot_r3l11.jpg | ,,stond, en sij ter selver tijd aan de Engel,
+images/400_NL-HaNA_1.04.02_3393_0218-groot_r3l12.jpg | ,,schen een regulierder schikking daar om,,
+images/401_NL-HaNA_1.04.02_3393_0218-groot_r3l13.jpg | ,,trent voorstelden, na welks uijtslag
+images/402_NL-HaNA_1.04.02_3393_0218-groot_r3l14.jpg | die aanmaking derhalven uijtgesteld
+images/403_NL-HaNA_1.04.02_3393_0218-groot_r3l15.jpg | moest zijn gebleeven, en geheel geexcuseert,
+images/404_NL-HaNA_1.04.02_3393_0218-groot_r3l16.jpg | sedert de gemaakte schik bepaling op
+images/405_NL-HaNA_1.04.02_3393_0218-groot_r3l17.jpg | vijf stuks voor onse rekening, wijl het ge,
+images/406_NL-HaNA_1.04.02_3393_0218-groot_r3l18.jpg | ,,tal der ter waarlo aangemaakte thans
+images/407_NL-HaNA_1.04.02_3393_0218-groot_r3l19.jpg | ruijmer
+images/408_NL-HaNA_1.04.02_3393_0218-groot_r3l2.jpg | Omtrent dit point hebben wij nog aante
+images/409_NL-HaNA_1.04.02_3393_0218-groot_r3l3.jpg | ,,merken gevonden, dat in de gearresteerde
+images/410_NL-HaNA_1.04.02_3393_0218-groot_r3l4.jpg | slegt everleg in de aan
+images/411_NL-HaNA_1.04.02_3393_0218-groot_r3l6.jpg | boeijen, in voorraad, volgens het besluijt
+images/412_NL-HaNA_1.04.02_3393_0218-groot_r3l7.jpg | der ministers van den 5. 8ber: 1773, een
+images/413_NL-HaNA_1.04.02_3393_0218-groot_r3l8.jpg | gepast Overleg niet in agt is genomen,
+images/414_NL-HaNA_1.04.02_3393_0218-groot_r3l9.jpg | wijl het getal der daar aanhanden
+images/415_NL-HaNA_1.04.02_3475_0242-groot_r1l1.jpg | handel wezen konde , dien de hofsgrooten tegen alle
+images/416_NL-HaNA_1.04.02_3475_0242-groot_r1l10.jpg | kans waarneemen om de Bancaneesen , die
+images/417_NL-HaNA_1.04.02_3475_0242-groot_r1l11.jpg | dog met weerzien het palembangse juk draagen
+images/418_NL-HaNA_1.04.02_3475_0242-groot_r1l12.jpg | tegen den koning op te rokkenen , en denzelven
+images/419_NL-HaNA_1.04.02_3475_0242-groot_r1l13.jpg | daar door in de grootste moeijelijkheeden te brengen,
+images/420_NL-HaNA_1.04.02_3475_0242-groot_r1l14.jpg | waar aan wij het zegul onzer goedkeuring ge,,
+images/421_NL-HaNA_1.04.02_3475_0242-groot_r1l15.jpg | ,,hangen en den Resident De vries bij brieve van
+images/422_NL-HaNA_1.04.02_3475_0242-groot_r1l16.jpg | den 24. october ook gelast hebben, vermits het
+images/423_NL-HaNA_1.04.02_3475_0242-groot_r1l17.jpg | werk
+images/424_NL-HaNA_1.04.02_3475_0242-groot_r1l2.jpg | billijke vertoogen aan met gemelte natie gekoes,,
+images/425_NL-HaNA_1.04.02_3475_0242-groot_r1l3.jpg | ,,tert hadden , wijl de Engelsen nu reets zo stout
+images/426_NL-HaNA_1.04.02_3475_0242-groot_r1l4.jpg | waren geworden , om niet alleen voor de Negorij
+images/427_NL-HaNA_1.04.02_3475_0242-groot_r1l5.jpg | Beat , het geen te vooren nooijt geschied was, te
+images/428_NL-HaNA_1.04.02_3475_0242-groot_r1l6.jpg | gaan ankeren, maar Zelfs op aanzegging om
+images/429_NL-HaNA_1.04.02_3475_0242-groot_r1l7.jpg | van daar te vertrekken ,zulx te weijgeren met
+images/430_NL-HaNA_1.04.02_3475_0242-groot_r1l8.jpg | bijvoeging dat zij daar door niet alleen kennis van
+images/431_NL-HaNA_1.04.02_3475_0242-groot_r1l9.jpg | dat Eijland konden krijgen , maar ook hunne
+images/432_NL-HaNA_1.04.02_3503_0082-groot_line_1642507326481_295.jpg | wat ze op Java zullen
+images/433_NL-HaNA_1.04.02_3503_0082-groot_line_1642507366693_307.jpg | inneemen
+images/434_NL-HaNA_1.04.02_3503_0082-groot_line_1642507397222_318.jpg | Het derde wagt op
+images/435_NL-HaNA_1.04.02_3503_0082-groot_line_1642507411875_323.jpg | volk
+images/436_NL-HaNA_1.04.02_3503_0082-groot_r2l1.jpg | §: 4 Bovendien zullen die twee kielen
+images/437_NL-HaNA_1.04.02_3503_0082-groot_r2l10.jpg | wagten op volk uit Nederland, en zal
+images/438_NL-HaNA_1.04.02_3503_0082-groot_r2l11.jpg | zoo spoedig mogelijk dir ect van hier ver,,
+images/439_NL-HaNA_1.04.02_3503_0082-groot_r2l12.jpg | trekken met 200 ter compleete voldoe,,
+images/440_NL-HaNA_1.04.02_3503_0082-groot_r2l13.jpg | ning der gevraagde 800 lasten rijst, en zoo
+images/441_NL-HaNA_1.04.02_3503_0082-groot_r2l14.jpg | veel van de nog onvoldane goederen als
+images/442_NL-HaNA_1.04.02_3503_0082-groot_r2l15.jpg | mogelijk zal zijn.
+images/443_NL-HaNA_1.04.02_3503_0082-groot_r2l2.jpg | Van Java vervoeren 600 kojangs rijst met
+images/444_NL-HaNA_1.04.02_3503_0082-groot_r2l3.jpg | hun beiden neevens eenige an dere pro,,
+images/445_NL-HaNA_1.04.02_3503_0082-groot_r2l4.jpg | ducten van die kust, en zoo veel houtwer,,
+images/446_NL-HaNA_1.04.02_3503_0082-groot_r2l5.jpg | ken alze in voldoening van den impor,,
+images/447_NL-HaNA_1.04.02_3503_0082-groot_r2l6.jpg | tanten eisch zullen Kunnen inneemen
+images/448_NL-HaNA_1.04.02_3503_0082-groot_r2l7.jpg | tot welkers tijdige in gereedheid brenging
+images/449_NL-HaNA_1.04.02_3503_0082-groot_r2l8.jpg | order is gesteld
+images/450_NL-HaNA_1.04.02_3503_0082-groot_r2l9.jpg | §: 5. Het derde schip legt nog hier te
+images/451_NL-HaNA_1.04.02_3869_0777-groot_line_1642509723529_402.jpg | Bengale
+images/452_NL-HaNA_1.04.02_3869_0777-groot_line_1642509752792_407.jpg | het welk gepas,
+images/453_NL-HaNA_1.04.02_3869_0777-groot_line_1642509765519_412.jpg | ,,seerd is
+images/454_NL-HaNA_1.04.02_3869_0777-groot_line_1642509778072_417.jpg | § 73:
+images/455_NL-HaNA_1.04.02_3869_0777-groot_line_1642509796399_422.jpg | de Heer direc ,,
+images/456_NL-HaNA_1.04.02_3869_0777-groot_line_1642509817776_427.jpg | ,, teur heeft
+images/457_NL-HaNA_1.04.02_3869_0777-groot_line_1642509836425_432.jpg | echter voor
+images/458_NL-HaNA_1.04.02_3869_0777-groot_line_1642509849401_437.jpg | eige reekening
+images/459_NL-HaNA_1.04.02_3869_0777-groot_line_1642509877897_444.jpg | 6000 maans
+images/460_NL-HaNA_1.04.02_3869_0777-groot_line_1642509889825_449.jpg | ingekogt
+images/461_NL-HaNA_1.04.02_3869_0777-groot_line_1642512873192_521.jpg | 2048
+images/462_NL-HaNA_1.04.02_3869_0777-groot_line_1679067145215_1997.jpg | bij aankomst , vanhet Europisch
+images/463_NL-HaNA_1.04.02_3869_0777-groot_line_1679067145215_1998.jpg | bij aankomst , vanhet Europisch
+images/464_NL-HaNA_1.04.02_3869_0777-groot_r2l1.jpg | niet geleeverd konde worden, zo dat zij
+images/465_NL-HaNA_1.04.02_3869_0777-groot_r2l10.jpg | middelen te vergeefsch te hebben aan,,
+images/466_NL-HaNA_1.04.02_3869_0777-groot_r2l11.jpg | ,, gewend , omdit articul opcredit
+images/467_NL-HaNA_1.04.02_3869_0777-groot_r2l12.jpg | te bemachtigen opzijn Ed: naem en voor
+images/468_NL-HaNA_1.04.02_3869_0777-groot_r2l13.jpg | eigen reekening , onder verpanding
+images/469_NL-HaNA_1.04.02_3869_0777-groot_r2l14.jpg | vanEen derde meerder aan diver,,
+images/470_NL-HaNA_1.04.02_3869_0777-groot_r2l15.jpg | ,, sche papieren, als het montant
+images/471_NL-HaNA_1.04.02_3869_0777-groot_r2l16.jpg | der zelver bedroeg , en onder
+images/472_NL-HaNA_1.04.02_3869_0777-groot_r2l17.jpg | toezegging vancontante betaaling
+images/473_NL-HaNA_1.04.02_3869_0777-groot_r2l19.jpg | schip
+images/474_NL-HaNA_1.04.02_3869_0777-groot_r2l2.jpg | bij ontfangst vanden Eisch, dezel,
+images/475_NL-HaNA_1.04.02_3869_0777-groot_r2l3.jpg | ,, ve aanPatnar hebben moeten vorderen
+images/476_NL-HaNA_1.04.02_3869_0777-groot_r2l4.jpg | waar toe de geleegendheid is vervolgens
+images/477_NL-HaNA_1.04.02_3869_0777-groot_r2l5.jpg | geweest. doorhet weg blijven vandien Eisch
+images/478_NL-HaNA_1.04.02_3869_0777-groot_r2l6.jpg | en wy hebbendit almede gepasseerd
+images/479_NL-HaNA_1.04.02_3869_0777-groot_r2l7.jpg | Om Echter het schip straalen de
+images/480_NL-HaNA_1.04.02_3869_0777-groot_r2l8.jpg | vereischte onderlaag daer van te be,,
+images/481_NL-HaNA_1.04.02_3869_0777-groot_r2l9.jpg | ,, zorgen heeft de heer Directeur na alle
